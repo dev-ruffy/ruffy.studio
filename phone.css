@@ -1,0 +1,90 @@
+/* Styles for phones */
+
+/* Your phone styles go here */
+:root {
+  --fs-h1: ;
+  --fs-h2: ;
+  --fs-h3: ;
+  --fs-h4: ;
+  --fs-h5: ;
+  --fs-h6: ;
+  --fs-p: ;
+  --fs-a: ;
+  --fs-span: ;
+  --main-color: ;
+  --bf-color: ;
+}
+
+/* setting the style for all headers and paragraph........ */
+h1 {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  color: ;
+  letter-spacing: ;
+  text-transform: ;
+}
+h2 {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  color: ;
+  letter-spacing: ;
+  text-transform: ;
+}
+h3 {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  color: ;
+  letter-spacing: ;
+  text-transform: ;
+}
+h4 {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  color: ;
+  letter-spacing: ;
+  text-transform: ;
+}
+h5 {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  color: ;
+  letter-spacing: ;
+  text-transform: ;
+}
+h6 {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  color: ;
+  letter-spacing: ;
+  text-transform: ;
+}
+p {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  color: ;
+  letter-spacing: ;
+  text-transform: ;
+}
+a {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  color: ;
+  letter-spacing: ;
+  text-transform: ;
+}
+span {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  color: ;
+  letter-spacing: ;
+  text-transform: ;
+}
